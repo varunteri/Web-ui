@@ -23,12 +23,12 @@ header{
 }
 nav {
     float: left;
-    max-width: 160px;
+    max-width: 20%;
     margin: 0;
     padding: 1px;
 }
 article{
-    margin-left: 170px;
+    margin-left: 20%;
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
@@ -36,7 +36,8 @@ article{
 .foot{
     background-color: black;
     color: aqua;
-    height: 100px;
     text-align: center;
+    height: 100px;
+    
     
 }
