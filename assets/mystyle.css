@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    border: rgb(238, 241, 12)
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+#para1 {
+    text-align: center;
+    color: red;
+}
+.center {
+    text-align: center;
+    color: rgb(34, 187, 47);
+}
+p.center {
+    text-align: center;
+    color: red;
+}

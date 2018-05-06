@@ -1,0 +1,42 @@
+
+.containar {
+    background-color: rgb(10, 236, 217);
+    width: 100%;
+    border: 1px solid gray;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+header{
+    padding: 1em;
+    color: white;
+    background-color:gold;
+    text-align: center;
+    height: 100px;
+}
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1px;
+}
+article{
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+.foot{
+    background-color: black;
+    color: aqua;
+    height: 100px;
+    text-align: center;
+    
+}
