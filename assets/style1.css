@@ -12,6 +12,15 @@ h1 {
     color: white;
     text-align: center;
 }
+button{
+    color:#fff;
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    font-family:Arial
+   
+
+}
 
 p {
     font-family: verdana;
