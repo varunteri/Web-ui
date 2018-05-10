@@ -1,4 +1,6 @@
-
+body{
+    background-color: rgb(233, 61, 176);
+}
 .containar {
     background-color: rgb(10, 236, 217);
     width: 100%;
